@@ -62,10 +62,9 @@ Berikut adalah teknologi utama yang saya gunakan, ditampilkan dengan badges:
 
 ## 📈 Statistik GitHub
 
-[![Adi Prabowo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**USERNAME_ANDA**&show_icons=true&theme=radical&hide_border=true)](https://github.com/**USERNAME_ANDA**)
+[![Adi Prabowo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**adiprabowo194**&show_icons=true&theme=radical&hide_border=true)](https://github.com/**adiprabowo194**)
 
-*(**Penting:** Ganti `USERNAME_ANDA` dengan Username GitHub Anda agar statistik ini berfungsi)*
-
+rra
 ---
 
 ## 📬 Hubungi Saya
