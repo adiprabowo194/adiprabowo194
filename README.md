@@ -56,16 +56,6 @@ Berikut adalah teknologi utama yang saya gunakan, ditampilkan dengan badges:
 | **wms-laravel** | Warehouse Management System (WMS) yang dibangun dengan Laravel, mencakup alur *inbound/outbound*, pelacakan POD, dan laporan komprehensif. **[Link ke Repo]** |
 | **crm-sales** | Modul CRM untuk manajemen *lead* dan pelanggan, dengan integrasi API ke layanan *billing* dan kurir. **[Link ke Repo]** |
 
-*(Ganti tanda **[Link ke Repo]** di atas dengan URL repositori sebenarnya)*
-
----
-
-## 📈 Statistik GitHub
-
-[![Adi Prabowo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**adiprabowo194**&show_icons=true&theme=radical&hide_border=true)](https://github.com/**adiprabowo194**)
-
-rra
----
 
 ## 📬 Hubungi Saya
 
