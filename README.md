@@ -8,7 +8,7 @@ Seorang **Software Engineer** dengan keahlian mendalam dalam membangun dan mengi
 
 Saya memiliki pengalaman kuat dalam siklus pengembangan produk dari konseptualisasi hingga *deployment* dan integrasi sistem pihak ketiga.
 
-### 💼 Domain & Solusi
+### 💼 Project
 * **ERP & Transport Management System (TMS)**
 * **Warehouse Management System (Inbound/Outbound)**
 * **CRM Sales & Project Management**
