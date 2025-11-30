@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Adi Prabowo
 
-Seorang **Software Engineer** dengan keahlian mendalam dalam membangun dan mengintegrasikan sistem Enterprise-level yang kompleks, seperti **ERP, Transport Management System (TMS),** dan **Warehouse Management System (WMS)**. Saya berfokus pada pengembangan *full-stack* yang efisien, didukung oleh praktik DevOps yang solid.
+Seorang **Software Engineer** dan **FullStack Developer** dengan keahlian mendalam dalam membangun dan mengintegrasikan sistem Enterprise-level yang kompleks, seperti **ERP, Transport Management System (TMS),** dan **Warehouse Management System (WMS)**. Saya berfokus pada pengembangan *full-stack* yang efisien, didukung oleh praktik DevOps yang solid.
 
 ---
 
