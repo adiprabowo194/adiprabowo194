@@ -62,7 +62,7 @@ Berikut adalah teknologi utama yang saya gunakan, ditampilkan dengan badges:
 Tertarik untuk berdiskusi tentang proyek atau peluang kolaborasi? Jangan ragu untuk menghubungi saya!
 
 * **📧 Email:** adiprabowo194@gmail.com
-* **📱 Telepon:** 0812-1913-4561
+* **📱 Telepon:** 0812-1913-4561 **(Whatsapp)**
 * **🔗 LinkedIn:** [https://www.linkedin.com/in/adiprabowo194](https://www.linkedin.com/in/adiprabowo194)
 * **📍 Lokasi:** Cipayung, Lubang Buaya, Jakarta Timur
 * **🚀 Portofolio:** [https://portofolio-adiprabowo.vercel.app
