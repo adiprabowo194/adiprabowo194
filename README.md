@@ -52,9 +52,9 @@ Berikut adalah teknologi utama yang saya gunakan, ditampilkan dengan badges:
 
 | Proyek | Deskripsi Singkat |
 | :--- | :--- |
-| **tms-dashboard** | Dashboard Transport Management System (TMS) dengan fitur lengkap, termasuk pemantauan pengiriman *real-time* dan pembaruan menggunakan WebSocket. **[Link ke Repo]** |
-| **wms-laravel** | Warehouse Management System (WMS) yang dibangun dengan Laravel, mencakup alur *inbound/outbound*, pelacakan POD, dan laporan komprehensif. **[Link ke Repo]** |
-| **crm-sales** | Modul CRM untuk manajemen *lead* dan pelanggan, dengan integrasi API ke layanan *billing* dan kurir. **[Link ke Repo]** |
+| **tms-dashboard** | Dashboard Transport Management System (TMS) dengan fitur lengkap, termasuk pemantauan pengiriman *real-time* dan pembaruan menggunakan WebSocket. |
+| **wms-laravel** | Warehouse Management System (WMS) yang dibangun dengan Laravel, mencakup alur *inbound/outbound*, pelacakan POD, dan laporan komprehensif. |
+| **crm-sales** | Modul CRM untuk manajemen *lead* dan pelanggan, dengan integrasi API ke layanan *billing* dan kurir. |
 
 
 ## 📬 Hubungi Saya
@@ -65,6 +65,6 @@ Tertarik untuk berdiskusi tentang proyek atau peluang kolaborasi? Jangan ragu un
 * **📱 Telepon:** 0812-1913-4561
 * **🔗 LinkedIn:** [https://www.linkedin.com/in/adiprabowo194](https://www.linkedin.com/in/adiprabowo194)
 * **📍 Lokasi:** Cipayung, Lubang Buaya, Jakarta Timur
-* **🚀 Portofolio:** [https://myportofolio-new-seven.vercel.app/
+* **🚀 Portofolio:** [https://portofolio-adiprabowo.vercel.app
 
 ✨ Terima kasih telah mengunjungi profil saya!
